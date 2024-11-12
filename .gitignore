@@ -32,3 +32,6 @@ mvnw
 **/target
 HELP.md
 package-lock.json
+/room-booking-ui/node/
+/room-booking-ui/node_modules/
+/room-booking-ui/build/
